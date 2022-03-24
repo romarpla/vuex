@@ -5,6 +5,7 @@
     <ContadorCuadrado/>
     <Botones/>
     <ColorCode/>
+    <p>Este es un cambio</p>
   </div>
 </template>
 
